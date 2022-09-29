@@ -16,5 +16,5 @@ author_profile: true
 1. **Hardik Kothari**, Rolf Krause, "Multigrid and saddle-point preconditioners for unfitted finite element modelling of inclusions", In Proceedings of the $14^{th}$ World Congress on Computational Mechanics (WCCM) European Community on Computational Methods in Applied Sciences (ECCOMAS) Congress 2020, **2021**, DOI: [10.23967/wccm-eccomas.2020.211](https://doi.org/10.23967/wccm-eccomas.2020.211) 
 
 ## Thesis
-* **Hardik Kothari**, "Multilevel solution strategies for unfitted finite element method", PhD thesis, Università della Svizzera italiana, **2022** ([link](https://susi.usi.ch/usi/documents/319417))
-* **Hardik Kothari**, "Parallelisation of a Spectral Element Solver", Master thesis, TU Bergakademie Freiberg, **2014** ([link](https://www.ics.usi.ch/images/kothari/kothari_master_thesis.pdf))
+* "Multilevel solution strategies for unfitted finite element method", _PhD thesis_, Università della Svizzera italiana, **2022** ([link](https://susi.usi.ch/usi/documents/319417))
+* "Parallelisation of a Spectral Element Solver", _Master thesis_, TU Bergakademie Freiberg, **2014** ([link](https://www.ics.usi.ch/images/kothari/kothari_master_thesis.pdf))
