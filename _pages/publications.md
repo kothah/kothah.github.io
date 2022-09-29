@@ -4,13 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Submitted manuscript
+1. Alena Kopaničáková, **Hardik Kothari**, Rolf Krause, "Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture" [arXiv:2203.13738](https://arxiv.org/abs/2203.13738)
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Journal articles
+1. **Hardik Kothari**, Rolf Krause, "A generalized multigrid method for solving contact problems in Lagrange multiplier based unfitted Finite Element method", _Computer Methods in Applied Mechanics and Engineering_, 392:114630, 2022 DOI:[10.1016/j.cma.2022.114630](https://doi.org/10.1016/j.cma.2022.114630)
+1. **Hardik Kothari**, Rolf Krause, "A Multigrid Method for a Nitsche-based Extended Finite Element Method", _International Journal of Computing and Visualization in Science and Engineering_, 2021 DOI:[10.51375/IJCVSE.2021.1.8](https://doi.org/10.51375/IJCVSE.2021.1.8)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Conference Proceedings
+1. **Hardik Kothari**, Alena Kopaničáková, Rolf Krause, "A Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods", In Proceedings of the Domain Decomposition Methods in Science and Engineering XXVI, 2022 ([link](http://www.ddm.org/DD26/Proc-26.php))
+1. **Hardik Kothari**, Rolf Krause, "Multigrid and saddle-point preconditioners for unfitted finite element modelling of inclusions", In Proceedings of the $14^{th}$ World Congress on Computational Mechanics (WCCM) European Community on Computational Methods in Applied Sciences (ECCOMAS) Congress 2020, 2021 DOI:[10.23967/wccm-eccomas.2020.211](https://doi.org/10.23967/wccm-eccomas.2020.211) 
