@@ -15,11 +15,11 @@ Role: Replacing Prof. Rolf Krause for 6 lectures
 Role: Teaching Assistant to Dr. Drosos Kourounis
 
 
-**Introduction to Differential Equations **(Fall 2016)
+**Introduction to Differential Equations** (Fall 2016)
 
 Role: Teaching Assistant to Dr. Simone Pezzoto & Dr. Marco Favino
 
-**Software Atelier: Differential Equations **(Fall 2016)
+**Software Atelier: Differential Equations** (Fall 2016)
 
 Role: Teaching Assistant to Dr. Drosos Kourounis
 
