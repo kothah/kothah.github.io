@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Submitted manuscript
 1. **Hardik Kothari**, Alena Kopaničáková, Rolf Krause, "Nonlinear Schwarz preconditioning for nonlinear optimization problems with bound constraints", **2022** 
-2. **Hardik Kothari**, "Nonlinear Schwarz preconditioning for Quasi-Newton methods ", **2022** 
+2. **Hardik Kothari**, "Nonlinear Schwarz preconditioning for Quasi-Newton methods", **2022** 
 
 ## Journal articles
 1. Alena Kopaničáková, **Hardik Kothari**, Rolf Krause, "Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture",  _Computer Methods in Applied Mechanics and Engineering_, 403:115733, **2023**, DOI: [10.1016/j.cma.2022.115733](https://doi.org/10.1016/j.cma.2022.115733)
