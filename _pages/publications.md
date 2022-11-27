@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 ## Submitted manuscript
-1. Alena Kopaničáková, **Hardik Kothari**, Rolf Krause, "Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture", **2022** [arXiv:2203.13738](https://arxiv.org/abs/2203.13738)
+1. **Hardik Kothari**, Alena Kopaničáková, Rolf Krause, "Nonlinear Schwarz preconditioning for nonlinear optimization problems with bound constraints", **2022** 
+2. **Hardik Kothari**, "Nonlinear Schwarz preconditioning for Quasi-Newton methods ", **2022** 
 
 ## Journal articles
-1. **Hardik Kothari**, Rolf Krause, "A generalized multigrid method for solving contact problems in Lagrange multiplier based unfitted Finite Element method", _Computer Methods in Applied Mechanics and Engineering_, 392:114630, **2022**, DOI: [10.1016/j.cma.2022.114630](https://doi.org/10.1016/j.cma.2022.114630)
-1. **Hardik Kothari**, Rolf Krause, "A Multigrid Method for a Nitsche-based Extended Finite Element Method", _International Journal of Computing and Visualization in Science and Engineering_, **2021**, DOI: [10.51375/IJCVSE.2021.1.8](https://doi.org/10.51375/IJCVSE.2021.1.8)
+1. Alena Kopaničáková, **Hardik Kothari**, Rolf Krause, "Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture",  _Computer Methods in Applied Mechanics and Engineering_, 403:115733, **2023**, DOI: [10.1016/j.cma.2022.115733](https://doi.org/10.1016/j.cma.2022.115733)
+3. **Hardik Kothari**, Rolf Krause, "A generalized multigrid method for solving contact problems in Lagrange multiplier based unfitted Finite Element method", _Computer Methods in Applied Mechanics and Engineering_, 392:114630, **2022**, DOI: [10.1016/j.cma.2022.114630](https://doi.org/10.1016/j.cma.2022.114630)
+4. **Hardik Kothari**, Rolf Krause, "A Multigrid Method for a Nitsche-based Extended Finite Element Method", _International Journal of Computing and Visualization in Science and Engineering_, **2021**, DOI: [10.51375/IJCVSE.2021.1.8](https://doi.org/10.51375/IJCVSE.2021.1.8)
 
 ## Conference Proceedings
 1. **Hardik Kothari**, Alena Kopaničáková, Rolf Krause, "A Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods", In Proceedings of the Domain Decomposition Methods in Science and Engineering XXVI, **2022** ([link](http://www.ddm.org/DD26/Proc-26.php))
