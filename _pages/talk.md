@@ -17,7 +17,7 @@ author_profile: true
 1. __H. Kothari__, R. Krause, *A Generalized Multigrid Method for Contact problems in Unfitted Finite Element Methods*, $20^{\mathrm{th}}$ Copper Mountain Conference on Multigrid Methods (**2021**), Colorado, USA (Virtual).
 1. __H. Kothari__, R. Krause, *A Multigrid Method for Contact Problems in Unfitted Finite Element Methods*, ECCOMAS Congress 2020 - $14^{th}$ World Congress on Computational Mechanics (**2021**), Paris, France (Virtual).
 1. __H. Kothari__, A. Kopaničáková, R. Krause, *A Matrix-free Multigrid Preconditioner for Globalized Jacobian-free Newton-Krylov Methods*, $26^{th}$ International Domain Decomposition Conference, DD XXVI (**2020**), Hong Kong, China (Virtual).
-1. __H. Kothari__, R. Krause, *A Multigrid Method for Lagrange Multiplier based Unfitted Finite Element Method*, $15^{th}$ U.S.~National Congress on Computational Mechanics (**2019**), Austin, USA.
+1. __H. Kothari__, R. Krause, *A Multigrid Method for Lagrange Multiplier based Unfitted Finite Element Method*, $15^{th}$ U.S. National Congress on Computational Mechanics (**2019**), Austin, USA.
 1. __H. Kothari__, R. Krause, *A Multigrid Method for Nitsche-based Extended Finite Element Method*, ECCOMAS Thematic Conference on eXtended Discretization Methods (X-DMS **2019**), Lugano, Switzerland.
 1. __H. Kothari__, R. Krause, *A Nitsche based Extended Finite Element (XFEM) approach to embedded contact interfaces*, $13^{th}$ World Congress on Computational Mechanics (**2018**), New York, USA.
 1. __H. Kothari__, R. Krause, *A Semigeometric Multigrid for the Extended Finite Element Method*, Current topics in numerical analysis in Winter Semester **2017/2018**, IGPM, RWTH Aachen University, Germany.
