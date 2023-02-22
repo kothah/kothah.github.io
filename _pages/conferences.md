@@ -4,7 +4,13 @@ title: ""
 permalink: /talks/
 author_profile: true
 ---
-# Selected Talks
+# Confernce Organization
+
+
+# Minisymposia Organization
+
+
+# Confernce Talks
 1. __H. Kothari__, R. Krause, *A Multigrid method for Contact Problems in Unfitted FE Framework*, International Multigrid Conference (**2022**) (IMG), Lugano, Switzerland.
 1. __H. Kothari__, R. Krause, *A Domain Decomposition and Multigrid Preconditioners for Unfitted Finite Element Methodss*, $27^{th}$ International Domain Decomposition Conference, DD XXVII (**2022**), Prague, Czech Republic.
 1. __H. Kothari__, R. Krause, *A Trust-region method for solving finite deformation contact problems in unfitted finite element method*, ${15}^{th}$ World Congress on Computational Mechanics (**2022**), Yokohama, Japan (Virtual).
