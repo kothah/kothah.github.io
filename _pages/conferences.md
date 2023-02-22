@@ -5,10 +5,12 @@ permalink: /conferences/
 author_profile: true
 ---
 # Confernce Organization
-
+1. International Multigrid Conference 2022, August 22-26, in Lugano, Switzerland. Co-organized with Prof. R. Krause, Prof. Gabriel Wittum (King Abdullah University of Science and Technology)
+1. $3^{rd}$ ECCOMAS Thematic conference on eXtended Discretization MethodS (XDMS) 2019, July 3-5, in Lugano, Switzerland. Co-organized with Prof. R. Krause, Prof. Gabriel Wittum (King Abdullah University of Science and Technology)
 
 # Minisymposia Organization
-
+1. Multigrid methods for non-standard discretization methods at International Multigrid Conference 2022. Co-organized with Marco Favino (Université de Lausanne, Switzerland)
+1. Combining the domain decomposition and the multilevel methods with machine learning approaches at International Multigrid Conference 2022. Co-organized with Alena Kopanicakova (Brown University, USA)
 
 # Confernce Talks
 1. __H. Kothari__, R. Krause, *A Multigrid method for Contact Problems in Unfitted FE Framework*, International Multigrid Conference (**2022**) (IMG), Lugano, Switzerland.
@@ -28,4 +30,8 @@ author_profile: true
 1. __H. Kothari__, R. Krause, *A Nitsche based Extended Finite Element (XFEM) approach to embedded contact interfaces*, $13^{th}$ World Congress on Computational Mechanics (**2018**), New York, USA.
 1. __H. Kothari__, R. Krause, *A Semigeometric Multigrid for the Extended Finite Element Method*, Current topics in numerical analysis in Winter Semester **2017/2018**, IGPM, RWTH Aachen University, Germany.
 1. __H. Kothari__, A. Kopaničáková, R. Krause, *A Semigeometric Multigrid Method for Fracture Mechanics*, ECCOMAS Thematic Conference on eXtended Discretization Methods (X-DMS **2017**), Umeå, Sweden.
-1. T. Ludescher, S. Groß, __H. Kothari__, R. Krause, A. Reusken, *A Multigrid Method for Unfitted Finite Element Methods*, International Multigrid Conference **2016** (IMG), Bruchsal Palace, Germany
+1. T. Ludescher, S. Groß, __H. Kothari__, R. Krause, A. Reusken, *A Multigrid Method for Unfitted Finite Element Methods*, International Multigrid Conference (IMG **2016**), Bruchsal Palace, Germany
+
+# Posters
+1. A. Kopaničáková, S. Cruz, __H. Kothari__, R. Krause, *Distributed Training of Deep Neural Networks*, The Platform for Advanced Scientific Computing  Conference (PASC **2022**), Basel, Switzerland
+
