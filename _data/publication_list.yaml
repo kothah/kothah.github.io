@@ -95,3 +95,28 @@
           url = {https://doi.org/10.1016%2Fj.cma.2022.114630},
           publisher = {Elsevier {BV}},
         }
+        
+- title: "A Multigrid Method for a Nitsche-based Extended Finite Element Method"
+  year: 2021
+  type: journal
+  label: kothari_multigrid_2021
+  image: 
+  description: 
+  authors: H. Kothari, R. Krause
+  link_pre:
+    url: https://arxiv.org/abs/2106.16107
+    display: arXiv:2106.16107 (2021)
+  link_main:
+    url: https://doi.org/10.51375%2Fijcvse.2021.1.8
+    display: International Journal of Computing and Visualization in Science and Engineering
+  bibtex: |
+        @article{kothari_multigrid_2021,
+          title = {A Multigrid Method for a {N}itsche-based {Extended Finite Element} Method},
+          author = {Hardik Kothari and Rolf Krause},
+          journal = {International Journal of Computing and Visualization in Science and Engineering},
+          month = {aug},
+          year = 2021,
+          doi = {10.51375/ijcvse.2021.1.8},
+          url = {https://doi.org/10.51375%2Fijcvse.2021.1.8},
+          publisher = {G-{CSC}, University of Frankfurt},
+        }
