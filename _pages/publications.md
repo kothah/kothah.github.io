@@ -4,9 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can also find all my publications on <a href="https://scholar.google.com/citations?user=IVCufoQAAAAJ&hl=en" target="_blank">Google Scholar</a>.
-
-
 <h4 style="margin-bottom:0px;padding-top:10px;">Preprints</h4>
 <ul class="preprint_list">
 
@@ -21,9 +18,6 @@ You can also find all my publications on <a href="https://scholar.google.com/cit
 <a href="{{ publi.link_pre.url }}" target="_blank">[PDF]</a> 
 </p>
 <div id="bib_{{ publi.label }}" class="bibtex noshow">
-<pre>
-{{ publi.bibtex }}
-</pre>
 </div>
 </li>
 
