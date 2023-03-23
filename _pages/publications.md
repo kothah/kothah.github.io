@@ -14,8 +14,9 @@ author_profile: true
 <li ><p>
 <b>{{ publi.title }}</b> ({{ publi.year }})
 <br>{{ publi.authors }}<br>
+<a href="javascript:toggleBibtex('{{ publi.decription }}')">[Abstract]</a>
 <a href="javascript:toggleBibtex('{{ publi.label }}')">[BibTeX]</a>
-<a href="{{ publi.link_pre.url }}" target="_blank">[PDF]</a> 
+<a href="{{ publi.link_pre.url }}" target="_blank">[Preprint]</a> 
 </p>
 <div id="bib_{{ publi.label }}" class="bibtex noshow">
 <pre>
