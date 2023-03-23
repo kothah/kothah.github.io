@@ -165,7 +165,7 @@
     display: arXiv:2102.08112 (2021)
   link_main:
     url: https://doi.org/10.23967%2Fwccm-eccomas.2020.211
-    display: 14th {WCCM}-{ECCOMAS} CongressI
+    display: 14th WCCM-ECCOMAS Congress
   bibtex: |
         @InProceedings{kothari_multigrid_2021b,
           author="Kothari, Hardik
