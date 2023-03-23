@@ -18,6 +18,9 @@ author_profile: true
 <a href="{{ publi.link_pre.url }}" target="_blank">[PDF]</a> 
 </p>
 <div id="bib_{{ publi.label }}" class="bibtex noshow">
+<pre>
+{{ publi.bibtex }}
+</pre>
 </div>
 </li>
 
