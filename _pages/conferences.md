@@ -1,22 +1,16 @@
----
-layout: archive
-title: ""
-permalink: /conferences/
-author_profile: true
----
-# Confernce Organization
-1. International Multigrid Conference 2022, August 22-26, in Lugano, Switzerland. <br> Co-organized with Prof. R. Krause, Prof. Gabriel Wittum (King Abdullah University of Science and Technology)
-1. $3^{rd}$ ECCOMAS Thematic conference on eXtended Discretization MethodS (XDMS) 2019, July 3-5, in Lugano, Switzerland. <br> Co-organized with Prof. R. Krause, Prof. Gabriel Wittum (King Abdullah University of Science and Technology)
+# Conference Organization
+1. International Multigrid Conference 2022, August 22-26, in Lugano, Switzerland. <br> Co-organized with R. Krause, Gabriel Wittum 
+1. $3^{rd}$ ECCOMAS Thematic conference on eXtended Discretization MethodS (XDMS) 2019, July 3-5, in Lugano, Switzerland. <br> Co-organized with R. Krause,  Gabriel Wittum
 
 # Minisymposia Organization
 1. Multigrid methods for non-standard discretization methods <br> International Multigrid Conference 2022. <br> Co-organized with Marco Favino (Université de Lausanne, Switzerland)
 1. Combining the domain decomposition and the multilevel methods with machine learning approaches <br> International Multigrid Conference 2022.<br> Co-organized with Alena Kopanicakova (Brown University, USA)
 
-# Confernce Talks
+# Conference Talks
 1. __H. Kothari__, A. Kopaničáková, R. Krause, <br> *Nonlinear Preconditioning Strategies for Solving Phase-Field Fracture Problems*, <br> SIAM Conference on Computational Science and Engineering (CSE23) (**2023**), Amsterdam, Netherlands.
 1. A. Kopaničáková, __H. Kothari__, R. Krause, <br> *Enhancing Training of Scientific Machine Learning Applications*, <br> SIAM Conference on Computational Science and Engineering (CSE23) (**2023**), Amsterdam, Netherlands.
 1. __H. Kothari__, R. Krause, <br> *A Multigrid method for Contact Problems in Unfitted FE Framework*, <br> International Multigrid Conference (**2022**) (IMG), Lugano, Switzerland.
-1. __H. Kothari__, R. Krause,<br> *A Domain Decomposition and Multigrid Preconditioners for Unfitted Finite Element Methodss*,<br> $27^{th}$ International Domain Decomposition Conference, DD XXVII (**2022**), Prague, Czech Republic.
+1. __H. Kothari__, R. Krause,<br> *A Domain Decomposition and Multigrid Preconditioners for Unfitted Finite Element Methods*,<br> $27^{th}$ International Domain Decomposition Conference, DD XXVII (**2022**), Prague, Czech Republic.
 1. __H. Kothari__, R. Krause, <br> *A Trust-region method for solving finite deformation contact problems in unfitted finite element method*,<br> ${15}^{th}$ World Congress on Computational Mechanics (**2022**), Yokohama, Japan (Virtual).
 1. A. Kopaničáková, __H. Kothari__, R. Krause,<br> *Nonlinear preconditioning strategies for monolithic phase-field fracture models*,<br> $11^{th}$ European Solid Mechanics Conference (**2022**), Galway, Ireland
 1. __H. Kothari__, R. Krause,<br> *Discretization and Solution Methods for Contact Problems in an Unfitted Finite Element Method*,<br> $11^{th}$ European Solid Mechanics Conference (**2022**), Galway, Ireland
@@ -36,4 +30,3 @@ author_profile: true
 
 # Posters
 1. A. Kopaničáková, S. Cruz, __H. Kothari__, R. Krause,<br> *Distributed Training of Deep Neural Networks*,<br> The Platform for Advanced Scientific Computing  Conference (PASC **2022**), Basel, Switzerland
-
