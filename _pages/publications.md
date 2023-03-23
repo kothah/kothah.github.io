@@ -4,9 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h4 style="margin-bottom:0px;padding-top:10px;">Preprints</h4>
+## Submitted manuscripts
 <ul class="preprint_list">
-
 {% assign number_printed = 0 %}
 {% for publi in site.data.publication_list %}
 {% if publi.type == "preprint" %}
@@ -14,7 +13,6 @@ author_profile: true
 <li ><p>
 <b>{{ publi.title }}</b> ({{ publi.year }})
 <br>{{ publi.authors }}<br>
-<a href="javascript:toggleBibtex('{{ publi.decription }}')">[Abstract]</a>
 <a href="javascript:toggleBibtex('{{ publi.label }}')">[BibTeX]</a>
 <a href="{{ publi.link_pre.url }}" target="_blank">[Preprint]</a> 
 </p>
@@ -30,7 +28,7 @@ author_profile: true
 
 </ul>
 
-<h4 style="margin-bottom:0px;padding-top:10px;">Journal Publications</h4>
+## Journal articles
 <!-- Generated from JabRef by PubList by Truong Nghiem at 11:44 on 2015.09.10. -->
 <ul class="biblist">
 
@@ -57,21 +55,6 @@ author_profile: true
 {% endfor %}
 
 </ul>
-
-## Submitted manuscripts
-1. **H. Kothari** <br>
-   [Nonlinear Schwarz preconditioning for Quasi-Newton methods](https://arxiv.org/abs/2211.14403)<br>
-   Submitted to Proceedings of the Domain Decomposition Methods in Science and Engineering XXVII, **2022**<br>
-   arXiv:2211.14403 
-
-## Accepted manuscripts
-1. **H. Kothari**, A. Kopaničáková, R. Krause<br>
-   [Nonlinear Schwarz preconditioning for nonlinear optimization problems with bound constraints](https://arxiv.org/abs/2211.14780)<br>
-   Submitted to Proceedings of the Domain Decomposition Methods in Science and Engineering XXVII, **2022**<br>
-   arXiv:2211.14780
-
-
-## Journal articles
 1. A. Kopaničáková, **H. Kothari**, R. Krause<br>
    [Nonlinear Field-split Preconditioners for Solving Monolithic Phase-field Models of Brittle Fracture](https://doi.org/10.1016/j.cma.2022.115733)<br>
    _Computer Methods in Applied Mechanics and Engineering_, 403:115733, **2023**<br>
