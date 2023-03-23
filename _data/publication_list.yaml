@@ -3,7 +3,7 @@
   type: preprint
   label: kothari_raspqn_2022
   image: 
-  description: 
+  description: We propose the nonlinear restricted additive Schwarz (RAS) preconditioning strategy to improve the convergence speed of limited memory quasi-Newton (QN) methods. We consider both "left-preconditioning" and "right-preconditioning" strategies. As the application of the nonlinear preconditioning changes the standard gradients and Hessians to their preconditioned counterparts, the standard secant pairs cannot be used to approximate the preconditioned Hessians. We discuss how to construct the secant pairs in the preconditioned QN framework. Finally, we demonstrate the robustness and efficiency of the preconditioned QN methods using numerical experiments. 
   authors: H. Kothari
   link_pre:
     url: https://arxiv.org/abs/2211.14403
@@ -25,7 +25,7 @@
   type: preprint
   label: kothari_raspen-B_2022
   image: 
-  description: 
+  description: We propose a nonlinear additive Schwarz method for solving nonlinear optimization problems with bound constraints. Our method is used as a "right-preconditioner" for solving the first-order optimality system arising within the sequential quadratic programming (SQP) framework using Newton's method. The algorithmic scalability of this preconditioner is enhanced by incorporating a solution-dependent coarse space, which takes into account the restricted constraints from the fine level. By means of numerical examples, we demonstrate that the proposed preconditioned Newton methods outperform standard active-set methods considered in the literature. 
   authors: H. Kothari, A. Kopaničáková, R. Krause
   link_pre:
     url: https://arxiv.org/abs/2211.14780
