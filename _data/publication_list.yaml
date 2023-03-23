@@ -120,3 +120,61 @@
           url = {https://doi.org/10.51375%2Fijcvse.2021.1.8},
           publisher = {G-{CSC}, University of Frankfurt},
         }
+        
+- title: "A Multigrid Preconditioner for Jacobian-free Newton-Krylov Methods"
+  year: 2023
+  type: inproceeding
+  label: kothari_multigrid_2023
+  image: 
+  description: 
+  authors: H. Kothari, A. Kopaničáková, R. Krause
+  link_pre:
+    url: http://www.ddm.org/DD26/proceedings/343.pdf
+    display: arXiv:2103.13890 (2021)
+  link_main:
+    url: https://doi.org/10.1007/978-3-030-95025-5_38
+    display: Domain Decomposition Methods in Science and Engineering XXVI
+  bibtex: |
+        @InProceedings{kothari_multigrid_2023,
+          author="Kothari, Hardik
+                  and Kopani{\v{c}}{\'a}kov{\'a}, Alena
+                  and Krause, Rolf",
+          editor="Brenner, Susanne C.
+                  and Chung, Eric
+                  and Klawonn, Axel
+                  and Kwok, Felix
+                  and Xu, Jinchao
+                  and Zou, Jun",
+          title="A Multigrid Preconditioner for Jacobian-free Newton--Krylov Methods",
+          booktitle="Domain Decomposition Methods in Science and Engineering XXVI",
+          year="2023",
+          publisher="Springer International Publishing",
+          address="Cham",
+          pages="365--372",
+        }
+
+- title: "Multigrid and Saddle-Point Preconditioners for Unfitted Finite Element Modelling of Inclusions"
+  year: 2020
+  type: inproceeding
+  label: kothari_multigrid_2021b
+  image: 
+  description: 
+  authors: H. Kothari, R. Krause
+  link_pre:
+    url: https://arxiv.org/abs/2102.08112
+    display: arXiv:2102.08112 (2021)
+  link_main:
+    url: https://doi.org/10.23967%2Fwccm-eccomas.2020.211
+    display: 14th {WCCM}-{ECCOMAS} CongressI
+  bibtex: |
+        @InProceedings{kothari_multigrid_2021b,
+          author="Kothari, Hardik
+                  and Krause, Rolf",
+          editor="F. Chinesta and R. Abgrall and O. Allix",
+          title={Multigrid and Saddle-Point Preconditioners for Unfitted Finite Element Modelling of Inclusions},
+          booktitle = {14th {WCCM}-{ECCOMAS} Congress}
+          year="2021",
+          doi = "10.23967/wccm-eccomas.2020.211"
+	        publisher = {{CIMNE},
+        }
+        
