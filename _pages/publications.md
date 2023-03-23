@@ -43,7 +43,7 @@ author_profile: true
 <br> 
 <a href="{{ publi.link_main.url }}" target="_blank">[Link]</a>
 <a href="javascript:toggleBibtex('{{ publi.label }}')">[BibTeX]</a>
-<a href="{{ publi.link_pre.url }}" target="_blank">[PDF]</a> 
+<a href="{{ publi.link_pre.url }}" target="_blank">[Preprint]</a> 
 </p>
 <div id="bib_{{ publi.label }}" class="bibtex noshow">
 <pre>
@@ -71,7 +71,7 @@ author_profile: true
 <br> 
 <a href="{{ publi.link_main.url }}" target="_blank">[Link]</a>
 <a href="javascript:toggleBibtex('{{ publi.label }}')">[BibTeX]</a>
-<a href="{{ publi.link_pre.url }}" target="_blank">[PDF]</a> 
+<a href="{{ publi.link_pre.url }}" target="_blank">[Preprint]</a> 
 </p>
 <div id="bib_{{ publi.label }}" class="bibtex noshow">
 <pre>
