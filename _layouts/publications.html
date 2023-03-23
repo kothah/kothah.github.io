@@ -88,13 +88,14 @@ div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;
     {% endif %}
   </article>
 </div><!-- /#index -->
-<div class="footer-wrap">
-  <footer>
-    {% include footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
 
-{% include scripts.html %}          
+    {% include scripts.html %}      
 
 </body>
 </html>
