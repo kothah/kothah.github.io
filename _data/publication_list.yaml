@@ -68,3 +68,30 @@
           url = {https://doi.org/10.1016%2Fj.cma.2022.115733},
           publisher = {Elsevier {BV}},          
         }
+        
+- title: "A generalized multigrid method for solving contact problems in Lagrange multiplier based unfitted Finite Element method"
+  year: 2022
+  type: journal
+  label: kothari_generalized_2022
+  image: 
+  description: 
+  authors: H. Kothari, R. Krause
+  link_pre:
+    url: https://arxiv.org/abs/2106.16107
+    display: arXiv:2106.16107 (2021)
+  link_main:
+    url: https://doi.org/10.1016/j.cma.2022.114630
+    display: Computer Methods in Applied Mechanics and Engineering
+  bibtex: |
+        @article{kothari_generalized_2022,
+          title = {A generalized multigrid method for solving contact problems in Lagrange multiplier based unfitted Finite Element method},
+          author = {Hardik Kothari and Rolf Krause},
+          journal = {Computer Methods in Applied Mechanics and Engineering},
+          month = {mar},
+          year = 2022,
+          volume = {392},
+          pages = {114630},          
+          doi = {10.1016/j.cma.2022.114630},
+          url = {https://doi.org/10.1016%2Fj.cma.2022.114630},
+          publisher = {Elsevier {BV}},
+        }
