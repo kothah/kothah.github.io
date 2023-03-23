@@ -88,7 +88,7 @@
           author = {Hardik Kothari and Rolf Krause},
           journal = {Computer Methods in Applied Mechanics and Engineering},
           month = {mar},
-	  year = 2022,
+          year = 2022,
           volume = {392},
           pages = {114630},
           doi = {10.1016/j.cma.2022.114630},
@@ -175,6 +175,5 @@
           booktitle = {14th {WCCM}-{ECCOMAS} Congress}
           year="2021",
           doi = "10.23967/wccm-eccomas.2020.211"
-	        publisher = {{CIMNE},
+          publisher = {{CIMNE},
         }
-        
