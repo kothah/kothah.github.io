@@ -4,17 +4,65 @@
   label: kothari_raspqn_2022
   image: 
   description: 
-  authors: Hardik Kothari
+  authors: H. Kothari
   link_pre:
     url: https://arxiv.org/abs/2211.14403
-    display: 
+    display: arXiv:2211.14403 (2022)
   link_main:
-    url: https://arxiv.org/abs/2211.14403
+    url: 
     display: 
   bibtex: |
-        @article{kothari_raspqn_2022,
+        @misc{kothari_raspqn_2022,
           title={Nonlinear {Schwarz} preconditioning for {Quasi-Newton} methods},
           year={2022},
+          archivePrefix="arXiv",
           eprint={2211.14403},
-          author={Kothari, Hardik}
+          author={Kothari, H.}
         }
+- title: "Nonlinear Schwarz preconditioning for nonlinear optimization problems with bound constraints"
+  year: 2022
+  type: preprint
+  label: kothari_raspen-B_2022
+  image: 
+  description: 
+  authors: H. Kothari, A. Kopaničáková, R. Krause
+  link_pre:
+    url: https://arxiv.org/abs/2211.14780
+    display: arXiv:2211.14780 (2022)
+  link_main:
+    url: 
+    display: 
+  bibtex: |
+        @misc{kothari_raspqn_2022,
+          title={Nonlinear {S}chwarz preconditioning for nonlinear optimization problems with bound constraints},
+          year={2022},
+          archivePrefix="arXiv",
+          eprint={2211.14780},
+          author={Hardik Kothari and Alena Kopaničáková and Rolf Krause}}
+        }
+- title: "Nonlinear field-split preconditioners for solving monolithic phase-field models of brittle fracture"
+  year: 2023
+  type: journal
+  label: kopanicakova_nonlinear_2023
+  image: 
+  description: 
+  authors: A. Kopaničáková, H. Kothari, R. Krause
+  link_pre:
+    url: https://arxiv.org/abs/2203.13738
+    display: arXiv:2203.13738 (2022)
+  link_main:
+    url: https://doi.org/10.1016/j.cma.2022.115733
+    display: Computer Methods in Applied Mechanics and Engineering
+  bibtex: |
+        @article{kopanicakova_nonlinear_2023,
+          title={Nonlinear field-split preconditioners for solving monolithic phase-field models of brittle fracture},
+          year={2023},
+          author={Hardik Kothari and Alena Kopaničáková and Rolf Krause}},
+          doi = {10.1016/j.cma.2022.115733},
+          url = {https://doi.org/10.1016%2Fj.cma.2022.115733},
+          month = {jan},
+          publisher = {Elsevier {BV}},
+          volume = {403},
+          pages = {115733},
+          journal = {Computer Methods in Applied Mechanics and Engineering}
+        } 
