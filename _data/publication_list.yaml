@@ -12,12 +12,12 @@
     url: 
     display: 
   bibtex: |
-        @misc{kothari_raspqn_2022,
+        @unpublished{kothari_raspqn_2022,
           title={Nonlinear {Schwarz} preconditioning for {Quasi-Newton} methods},
+          author={Kothari, H.},
           year={2022},
           archivePrefix="arXiv",
           eprint={2211.14403},
-          author={Kothari, H.}
         }
 - title: "Nonlinear Schwarz preconditioning for nonlinear optimization problems with bound constraints"
   year: 2022
@@ -33,12 +33,12 @@
     url: 
     display: 
   bibtex: |
-        @misc{kothari_raspqn_2022,
+        @unpublished{kothari_raspqn_2022,
           title={Nonlinear {S}chwarz preconditioning for nonlinear optimization problems with bound constraints},
+          author={Hardik Kothari and Alena Kopaničáková and Rolf Krause}},
           year={2022},
           archivePrefix="arXiv",
           eprint={2211.14780},
-          author={Hardik Kothari and Alena Kopaničáková and Rolf Krause}}
         }
 - title: "Nonlinear field-split preconditioners for solving monolithic phase-field models of brittle fracture"
   year: 2023
@@ -56,13 +56,64 @@
   bibtex: |
         @article{kopanicakova_nonlinear_2023,
           title={Nonlinear field-split preconditioners for solving monolithic phase-field models of brittle fracture},
-          year={2023},
           author={Hardik Kothari and Alena Kopaničáková and Rolf Krause}},
-          doi = {10.1016/j.cma.2022.115733},
-          url = {https://doi.org/10.1016%2Fj.cma.2022.115733},
+          journal = {Computer Methods in Applied Mechanics and Engineering},
           month = {jan},
-          publisher = {Elsevier {BV}},
+          year={2023},
           volume = {403},
           pages = {115733},
-          journal = {Computer Methods in Applied Mechanics and Engineering}
-        } 
+          doi = {10.1016/j.cma.2022.115733},
+          url = {https://doi.org/10.1016%2Fj.cma.2022.115733},
+          publisher = {Elsevier {BV}},          
+        }
+- title: "A generalized multigrid method for solving contact problems in Lagrange multiplier based unfitted Finite Element method"
+  year: 2022
+  type: journal
+  label: kothari_generalized_2022
+  image: 
+  description: 
+  authors: H. Kothari, R. Krause
+  link_pre:
+    url: https://arxiv.org/abs/2106.16107
+    display: arXiv:2106.16107 (2021)
+  link_main:
+    url: https://doi.org/10.1016/j.cma.2022.114630
+    display: Computer Methods in Applied Mechanics and Engineering
+  bibtex: |
+        @article{kothari_generalized_2022,
+          title = {A generalized multigrid method for solving contact problems in Lagrange multiplier based unfitted Finite Element method},
+          author = {Hardik Kothari and Rolf Krause},
+          journal = {Computer Methods in Applied Mechanics and Engineering},
+          month = {mar},
+          year = 2022,
+          volume = {392},
+          pages = {114630},          
+          doi = {10.1016/j.cma.2022.114630},
+          url = {https://doi.org/10.1016%2Fj.cma.2022.114630},
+          publisher = {Elsevier {BV}},
+        }
+- title: "A Multigrid Method for a Nitsche-based Extended Finite Element Method"
+  year: 2021
+  type: journal
+  label: kothari_multigrid_2021
+  image: 
+  description: 
+  authors: H. Kothari, R. Krause
+  link_pre:
+    url: https://arxiv.org/abs/2106.16107
+    display: arXiv:2106.16107 (2021)
+  link_main:
+    url: https://doi.org/10.51375%2Fijcvse.2021.1.8
+    display: International Journal of Computing and Visualization in Science and Engineering
+  bibtex: |
+        @article{kothari_multigrid_2021,
+          title = {A Multigrid Method for a {N}itsche-based {Extended Finite Element Method}},
+          author = {Hardik Kothari and Rolf Krause},
+          journal = {International Journal of Computing and Visualization in Science and Engineering},
+          month = {aug},
+          year = 2021,
+          doi = {10.51375/ijcvse.2021.1.8},
+          url = {https://doi.org/10.51375%2Fijcvse.2021.1.8},
+          publisher = {G-{CSC}, University of Frankfurt},
+   } 
+        
