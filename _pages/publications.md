@@ -39,8 +39,9 @@ author_profile: true
 <li ><p>
 <b>{{ publi.title }}</b> ({{ publi.year }})
 <br>{{ publi.authors }}<br>
-<i>{{ publi.link_main.display }}, <a href="{{ publi.link_main.url }}" target="_blank">[Link]</a></i>
-<br>
+<i>{{ publi.link_main.display }}</i>
+<br> 
+<a href="{{ publi.link_main.url }}" target="_blank">[Link]</a>
 <a href="javascript:toggleBibtex('{{ publi.label }}')">[BibTeX]</a>
 <a href="{{ publi.link_pre.url }}" target="_blank">[PDF]</a> 
 </p>
