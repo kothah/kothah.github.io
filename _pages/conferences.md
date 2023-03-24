@@ -1,3 +1,10 @@
+---
+layout: archive
+title: ""
+permalink: /conferences/
+author_profile: true
+---
+
 # Conference Organization
 1. International Multigrid Conference 2022, August 22-26, in Lugano, Switzerland. <br> Co-organized with R. Krause, Gabriel Wittum 
 1. $3^{rd}$ ECCOMAS Thematic conference on eXtended Discretization MethodS (XDMS) 2019, July 3-5, in Lugano, Switzerland. <br> Co-organized with R. Krause,  Gabriel Wittum
