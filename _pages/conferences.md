@@ -14,6 +14,7 @@ author_profile: true
 1. Combining the domain decomposition and the multilevel methods with machine learning approaches <br> International Multigrid Conference 2022.<br> Co-organized with Alena Kopanicakova (Brown University, USA)
 
 # Conference Talks
+1. __H. Kothari__, R. Krause, <br> *A multigrid method for solving variational inequalities*, <br> $21^{\mathrm{st}}$ Copper Mountain Conference on Multigrid Method (**2023**), Colorado, USA
 1. __H. Kothari__, A. Kopaničáková, R. Krause, <br> *Nonlinear Preconditioning Strategies for Solving Phase-Field Fracture Problems*, <br> SIAM Conference on Computational Science and Engineering (CSE23) (**2023**), Amsterdam, Netherlands.
 1. A. Kopaničáková, __H. Kothari__, R. Krause, <br> *Enhancing Training of Scientific Machine Learning Applications*, <br> SIAM Conference on Computational Science and Engineering (CSE23) (**2023**), Amsterdam, Netherlands.
 1. __H. Kothari__, R. Krause, <br> *A Multigrid method for Contact Problems in Unfitted FE Framework*, <br> International Multigrid Conference (**2022**) (IMG), Lugano, Switzerland.
