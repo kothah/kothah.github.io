@@ -14,7 +14,7 @@ author_profile: true
 1. Combining the domain decomposition and the multilevel methods with machine learning approaches <br> International Multigrid Conference 2022.<br> Co-organized with Alena Kopanicakova (Brown University, USA)
 
 # Conference Talks
-1. __H. Kothari__, R. Krause, <br> *A multigrid method for solving variational inequalities*, <br> $21^{\mathrm{st}}$ Copper Mountain Conference on Multigrid Method (**2023**), Colorado, USA
+1. __H. Kothari__, R. Krause, <br> *A multigrid method for solving variational inequalities*, <br> $21^{st}$ Copper Mountain Conference on Multigrid Method (**2023**), Colorado, USA
 1. __H. Kothari__, A. Kopaničáková, R. Krause, <br> *Nonlinear Preconditioning Strategies for Solving Phase-Field Fracture Problems*, <br> SIAM Conference on Computational Science and Engineering (CSE23) (**2023**), Amsterdam, Netherlands.
 1. A. Kopaničáková, __H. Kothari__, R. Krause, <br> *Enhancing Training of Scientific Machine Learning Applications*, <br> SIAM Conference on Computational Science and Engineering (CSE23) (**2023**), Amsterdam, Netherlands.
 1. __H. Kothari__, R. Krause, <br> *A Multigrid method for Contact Problems in Unfitted FE Framework*, <br> International Multigrid Conference (**2022**) (IMG), Lugano, Switzerland.
@@ -26,7 +26,7 @@ author_profile: true
 1. A. Kopaničáková, __H. Kothari__, R. Krause,<br> *Nonlinear additive and multiplicative preconditioning strategies for monolithic phase-field fracture models*,<br> ECCOMAS Congress (**2022**), Oslo, Norway
 1. __H. Kothari__, R. Krause,<br> *A generalized multigrid method for contact problems in Lagrange multiplier based unfitted finite element method*,<br> ECCOMAS Congress (**2022**), Oslo, Norway
 1. __H. Kothari__, R. Krause,<br> *Multigrid and Saddle-point Preconditioners for Unfitted Finite Element Modeling of Inclusions*,<br> ${16}^{th}$ U.S. National Congress on Computational Mechanics (**2021**), Chicago, USA (Virtual).
-1. __H. Kothari__, R. Krause,<br> *A Generalized Multigrid Method for Contact problems in Unfitted Finite Element Methods*,<br> $20^{\mathrm{th}}$ Copper Mountain Conference on Multigrid Methods (**2021**), Colorado, USA (Virtual).
+1. __H. Kothari__, R. Krause,<br> *A Generalized Multigrid Method for Contact problems in Unfitted Finite Element Methods*,<br> $20^{th}$ Copper Mountain Conference on Multigrid Methods (**2021**), Colorado, USA (Virtual).
 1. __H. Kothari__, R. Krause,<br> *A Multigrid Method for Contact Problems in Unfitted Finite Element Methods*,<br> ECCOMAS Congress 2020 - $14^{th}$ World Congress on Computational Mechanics (**2021**), Paris, France (Virtual).
 1. __H. Kothari__, A. Kopaničáková, R. Krause,<br> *A Matrix-free Multigrid Preconditioner for Globalized Jacobian-free Newton-Krylov Methods*,<br> $26^{th}$ International Domain Decomposition Conference, DD XXVI (**2020**), Hong Kong, China (Virtual).
 1. __H. Kothari__, R. Krause,<br> *A Multigrid Method for Lagrange Multiplier based Unfitted Finite Element Method*,<br> $15^{th}$ U.S. National Congress on Computational Mechanics (**2019**), Austin, USA.
