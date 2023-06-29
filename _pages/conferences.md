@@ -37,4 +37,6 @@ author_profile: true
 1. T. Ludescher, S. Groß, __H. Kothari__, R. Krause, A. Reusken,<br> *A Multigrid Method for Unfitted Finite Element Methods*,<br> International Multigrid Conference (IMG **2016**), Bruchsal Palace, Germany
 
 # Posters
+1. __H. Kothari__, A. Kopaničáková, P. Zulian, M. Nestola, E. Pezzulli, T. Driesner, R. Krause,<br> *Multilevel and Domain-Decomposition Solution Strategies for Solving Large-Scale Phase-Field Fracture Problems*,<br> The Platform for Advanced Scientific Computing  Conference (PASC **2023**), Davos, Switzerland
+1. S. Cruz, A. Kopaničáková, __H. Kothari__, K. Trotti, R. Krause,<br> *Distributed Training of Deep Neural Networks*,<br> The Platform for Advanced Scientific Computing  Conference (PASC **2022**), Davos, Switzerland
 1. A. Kopaničáková, S. Cruz, __H. Kothari__, R. Krause,<br> *Distributed Training of Deep Neural Networks*,<br> The Platform for Advanced Scientific Computing  Conference (PASC **2022**), Basel, Switzerland
