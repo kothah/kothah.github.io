@@ -1,6 +1,27 @@
+- title: "Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies"
+  year: 2023
+  type: preprint
+  label: kopanicakova_2023
+  image: 
+  description: We propose to enhance the training of physics-informed neural networks (PINNs). To this aim, we introduce nonlinear additive and multiplicative preconditioning strategies for the widely used L-BFGS optimizer. The nonlinear preconditioners are constructed by utilizing the Schwarz domain-decomposition framework, where the parameters of the network are decomposed in a layer-wise manner. Through a series of numerical experiments, we demonstrate that both, additive and multiplicative preconditioners significantly improve the convergence of the standard L-BFGS optimizer, while providing more accurate solutions of the underlying partial differential equations. Moreover, the additive preconditioner is inherently parallel, thus giving rise to a novel approach to model parallelism.
+  link_pre:
+    url: https://arxiv.org/abs/2306.17648
+    display: arXiv:2306.17648 (2023)
+  link_main:
+    url: 
+    display: 
+  bibtex: |
+        @unpublished{kopanicakova_pinnspqn_2023,
+          title={Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies},
+          author={Kopaničáková A. and Kothari H. and Karniadakis G. Em and Krause R.},
+          year={2023},
+          archivePrefix="arXiv",
+          eprint={2306.17648},
+        }
+        
 - title: "Nonlinear Schwarz preconditioning for Quasi-Newton methods"
   year: 2022
-  type: preprint
+  type: inproceeding
   label: kothari_raspqn_2022
   image: 
   description: We propose the nonlinear restricted additive Schwarz (RAS) preconditioning strategy to improve the convergence speed of limited memory quasi-Newton (QN) methods. We consider both "left-preconditioning" and "right-preconditioning" strategies. As the application of the nonlinear preconditioning changes the standard gradients and Hessians to their preconditioned counterparts, the standard secant pairs cannot be used to approximate the preconditioned Hessians. We discuss how to construct the secant pairs in the preconditioned QN framework. Finally, we demonstrate the robustness and efficiency of the preconditioned QN methods using numerical experiments. 
@@ -22,7 +43,7 @@
         
 - title: "Nonlinear Schwarz preconditioning for nonlinear optimization problems with bound constraints"
   year: 2022
-  type: preprint
+  type: inproceeding
   label: kothari_raspen-B_2022
   image: 
   description: We propose a nonlinear additive Schwarz method for solving nonlinear optimization problems with bound constraints. Our method is used as a "right-preconditioner" for solving the first-order optimality system arising within the sequential quadratic programming (SQP) framework using Newton's method. The algorithmic scalability of this preconditioner is enhanced by incorporating a solution-dependent coarse space, which takes into account the restricted constraints from the fine level. By means of numerical examples, we demonstrate that the proposed preconditioned Newton methods outperform standard active-set methods considered in the literature. 
