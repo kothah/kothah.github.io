@@ -4,12 +4,13 @@
   label: kopanicakova_2023
   image: 
   description: We propose to enhance the training of physics-informed neural networks (PINNs). To this aim, we introduce nonlinear additive and multiplicative preconditioning strategies for the widely used L-BFGS optimizer. The nonlinear preconditioners are constructed by utilizing the Schwarz domain-decomposition framework, where the parameters of the network are decomposed in a layer-wise manner. Through a series of numerical experiments, we demonstrate that both, additive and multiplicative preconditioners significantly improve the convergence of the standard L-BFGS optimizer, while providing more accurate solutions of the underlying partial differential equations. Moreover, the additive preconditioner is inherently parallel, thus giving rise to a novel approach to model parallelism.
+  authors: A. Kopaničáková, H. Kothari, G. Em Karniadakis, R. Krause
   link_pre:
     url: https://arxiv.org/abs/2306.17648
     display: arXiv:2306.17648 (2023)
   link_main:
     url: 
-    display: 
+    display: Submitted to SIAM Journal on Scientific Computing (SISC)
   bibtex: |
         @unpublished{kopanicakova_pinnspqn_2023,
           title={Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies},
@@ -31,7 +32,7 @@
     display: arXiv:2211.14403 (2022)
   link_main:
     url: 
-    display: 
+    display: Accepted of publication in Domain Decomposition Methods in Science and Engineering XXVII
   bibtex: |
         @unpublished{kothari_raspqn_2022,
           title={Nonlinear {Schwarz} preconditioning for {Quasi-Newton} methods},
@@ -52,8 +53,9 @@
     url: https://arxiv.org/abs/2211.14780
     display: arXiv:2211.14780 (2022)
   link_main:
+    link_main:
     url: 
-    display: 
+    display: Accepted of publication in Domain Decomposition Methods in Science and Engineering XXVII
   bibtex: |
         @unpublished{kothari_raspqn_2022,
           title={Nonlinear {S}chwarz preconditioning for nonlinear optimization problems with bound constraints},
