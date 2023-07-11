@@ -6,14 +6,15 @@ author_profile: true
 ---
 
 # Conference Organization
-1. International Multigrid Conference 2022, August 22-26, in Lugano, Switzerland. <br> Co-organized with R. Krause, Gabriel Wittum 
-1. $3^{rd}$ ECCOMAS Thematic conference on eXtended Discretization MethodS (XDMS) 2019, July 3-5, in Lugano, Switzerland. <br> Co-organized with R. Krause,  Gabriel Wittum
+1. International Multigrid Conference **2022**, August 22-26, in Lugano, Switzerland. <br> Co-organized with R. Krause, Gabriel Wittum 
+1. $3^{rd}$ ECCOMAS Thematic conference on eXtended Discretization MethodS (XDMS) **2019**, July 3-5, in Lugano, Switzerland. <br> Co-organized with R. Krause,  Gabriel Wittum
 
 # Minisymposia Organization
-1. Multigrid methods for non-standard discretization methods <br> International Multigrid Conference 2022. <br> Co-organized with Marco Favino (Université de Lausanne, Switzerland)
-1. Combining the domain decomposition and the multilevel methods with machine learning approaches <br> International Multigrid Conference 2022.<br> Co-organized with Alena Kopanicakova (Brown University, USA)
+1. Multigrid methods for non-standard discretization methods <br> International Multigrid Conference **2022**. <br> Co-organized with Marco Favino (Université de Lausanne, Switzerland)
+1. Combining the domain decomposition and the multilevel methods with machine learning approaches <br> International Multigrid Conference **2022**.<br> Co-organized with Alena Kopanicakova (Brown University, USA)
 
 # Conference Talks
+1. __H. Kothari__, P. Zulian, R. Krause, <br> *An algebraic domain decomposition strategy for solving the contact problems*, <br> $7^{th}$ International Conference on Computational Contact Mechanics, ICCCM (**2023**), Torino, Italy
 1. __H. Kothari__, R. Krause, <br> *A multigrid method for solving variational inequalities*, <br> $21^{st}$ Copper Mountain Conference on Multigrid Method (**2023**), Colorado, USA
 1. __H. Kothari__, A. Kopaničáková, R. Krause, <br> *Nonlinear Preconditioning Strategies for Solving Phase-Field Fracture Problems*, <br> SIAM Conference on Computational Science and Engineering (CSE23) (**2023**), Amsterdam, Netherlands.
 1. A. Kopaničáková, __H. Kothari__, R. Krause, <br> *Enhancing Training of Scientific Machine Learning Applications*, <br> SIAM Conference on Computational Science and Engineering (CSE23) (**2023**), Amsterdam, Netherlands.
