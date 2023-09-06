@@ -15,7 +15,7 @@ author_profile: true
 
 # Selected Talks at conferences and workshops
 1. __H. Kothari__, M.C.G. Nestola, M. Favino, R. Krause, <br> *On multipreconditioning Conjugate Gradient method with the additive multigrid for solving highly anisotropic problems*, <br> European Conference on Numerical Mathematics and Advanced Applications, ENUMATH (**2023**), Lisbon, Portugal
-1. __H. Kothari__, A. Kopaničáková, R. Krause <br> *A nonlinear preconditioning strategy for solving phase-field fracture problems in a constrained minimization framework*, <br>, $10^{th}$ International Congress on Industrial and Applied Mathematics, ICIAM (**2023**), Tokyo, Japan
+1. __H. Kothari__, A. Kopaničáková, R. Krause <br> *A nonlinear preconditioning strategy for solving phase-field fracture problems in a constrained minimization framework*, <br> $10^{th}$ International Congress on Industrial and Applied Mathematics, ICIAM (**2023**), Tokyo, Japan
 1. __H. Kothari__, P. Zulian, R. Krause, <br> *An algebraic domain decomposition strategy for solving the contact problems*, <br> $7^{th}$ International Conference on Computational Contact Mechanics, ICCCM (**2023**), Torino, Italy
 1. __H. Kothari__, <br> *A mini-course on multigrid methods*, <br> Research school on Iterative Methods for Partial Differential Equations, IMPDE (**2023**), Paris, France
 1. __H. Kothari__, R. Krause, <br> *A multigrid method for solving variational inequalities*, <br> $21^{st}$ Copper Mountain Conference on Multigrid Method (**2023**), Colorado, USA
