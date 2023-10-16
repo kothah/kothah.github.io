@@ -59,7 +59,7 @@
   bibtex: |
         @unpublished{kothari_raspqn_2022,
           title={Nonlinear {S}chwarz preconditioning for nonlinear optimization problems with bound constraints},
-          author={Hardik Kothari and Alena Kopaničáková and Rolf Krause}},
+          author={Hardik Kothari and Alena Kopaničáková and Rolf Krause},
           year={2022},
           archivePrefix="arXiv",
           eprint={2211.14780},
@@ -81,7 +81,7 @@
   bibtex: |
         @article{kopanicakova_nonlinear_2023,
           title={Nonlinear field-split preconditioners for solving monolithic phase-field models of brittle fracture},
-          author={Hardik Kothari and Alena Kopaničáková and Rolf Krause}},
+          author={Hardik Kothari and Alena Kopaničáková and Rolf Krause},
           journal = {Computer Methods in Applied Mechanics and Engineering},
           month = {jan},
           year={2023},
