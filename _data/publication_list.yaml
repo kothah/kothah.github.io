@@ -10,7 +10,7 @@
     display: arXiv:2306.17648 (2023)
   link_main:
     url: 
-    display: Submitted to SIAM Journal on Scientific Computing (SISC)
+    display: Under review in SIAM Journal on Scientific Computing (SISC)
   bibtex: |
         @unpublished{kopanicakova_pinnspqn_2023,
           title={Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies},
@@ -32,7 +32,7 @@
     display: arXiv:2211.14403 (2022)
   link_main:
     url: 
-    display: Accepted of publication in Domain Decomposition Methods in Science and Engineering XXVII
+    display: Accepted for publication in Domain Decomposition Methods in Science and Engineering XXVII
   bibtex: |
         @unpublished{kothari_raspqn_2022,
           title={Nonlinear {Schwarz} preconditioning for {Quasi-Newton} methods},
@@ -55,9 +55,9 @@
   link_main:
     link_main:
     url: 
-    display: Accepted of publication in Domain Decomposition Methods in Science and Engineering XXVII
+    display: Accepted for publication in Domain Decomposition Methods in Science and Engineering XXVII
   bibtex: |
-        @unpublished{kothari_raspqn_2022,
+        @unpublished{kothari_raspqn_const_2022,
           title={Nonlinear {S}chwarz preconditioning for nonlinear optimization problems with bound constraints},
           author={Hardik Kothari and Alena Kopaničáková and Rolf Krause},
           year={2022},
