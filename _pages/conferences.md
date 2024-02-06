@@ -11,7 +11,7 @@ author_profile: true
 
 # Minisymposia Organization
 1. Efficient iterative methods for solving coupled and strongly nonlinear problems, <br> $16^{th}$ World Congress on Computational Mechanics **2024**. <br> Co-organized with  R. Krause (USI, Switzerland),  A. Nägel (Goethe-Universität Frankfurt, Germany) and G. Wittum (KAUST, Saudi Arabia)
-1. Scientific Machine Learning: Algorithms and Applications <br> ALGORITMY **2024**.. <br> Co-organized with A. Kopaničáková (Brown University, USA), Simone Pezzuto (University of Trento, Italy) and R. Krause (USI, Switzerland)
+1. Scientific Machine Learning: Algorithms and Applications <br> ALGORITMY **2024**. <br> Co-organized with A. Kopaničáková (Brown University, USA), S. Pezzuto (University of Trento, Italy) and R. Krause (USI, Switzerland)
 1. Multigrid methods for non-standard discretization methods <br> International Multigrid Conference **2022**. <br> Co-organized with M. Favino (Université de Lausanne, Switzerland)
 1. Combining the domain decomposition and the multilevel methods with machine learning approaches <br> International Multigrid Conference **2022**.<br> Co-organized with A. Kopaničáková (Brown University, USA)
 
