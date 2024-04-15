@@ -11,11 +11,12 @@ author_profile: true
 
 # Minisymposia Organization
 1. Efficient iterative methods for solving coupled and strongly nonlinear problems, <br> $16^{th}$ World Congress on Computational Mechanics **2024**. <br> Co-organized with  R. Krause (USI, Switzerland),  A. Nägel (Goethe-Universität Frankfurt, Germany) and G. Wittum (KAUST, Saudi Arabia)
-1. Scientific Machine Learning: Algorithms and Applications <br> ALGORITMY **2024**. <br> Co-organized with A. Kopaničáková (Brown University, USA), S. Pezzuto (University of Trento, Italy) and R. Krause (USI, Switzerland)
+1. Scientific Machine Learning: Algorithms and Applications <br> Central-European Conference on Scientific Computing (ALGORITMY **2024**). <br> Co-organized with A. Kopaničáková (Brown University, USA), S. Pezzuto (University of Trento, Italy) and R. Krause (USI, Switzerland)
 1. Multigrid methods for non-standard discretization methods <br> International Multigrid Conference **2022**. <br> Co-organized with M. Favino (Université de Lausanne, Switzerland)
 1. Combining the domain decomposition and the multilevel methods with machine learning approaches <br> International Multigrid Conference **2022**.<br> Co-organized with A. Kopaničáková (Brown University, USA)
 
 # Selected Talks at conferences and workshops
+1. __H. Kothari__, A. Kopaničáková, G. Em Karniadakis, R. Krause, <br> *Nonlinear preconditioning for training of physics-informed neural networks*, <br> Central-European Conference on Scientific Computing (ALGORITMY **2024**). <br>, High Tatra Mountains, Slovakia.
 1. __H. Kothari__, A. Kopaničáková, R. Krause, <br> *Nonlinear Schwarz preconditioning for solving bound constrained optimization problems*, <br> $28^{th}$ International Domain Decomposition Conference, DD XXVIII (**2024**), King Abdullah University of Science and Technology, Saudi Arabia.
 1. __H. Kothari__, M.C.G. Nestola, M. Favino, R. Krause, <br> *On multipreconditioning Conjugate Gradient method with the additive multigrid for solving highly anisotropic problems*, <br> European Conference on Numerical Mathematics and Advanced Applications, ENUMATH (**2023**), Lisbon, Portugal
 1. __H. Kothari__, A. Kopaničáková, R. Krause <br> *A nonlinear preconditioning strategy for solving phase-field fracture problems in a constrained minimization framework*, <br> $10^{th}$ International Congress on Industrial and Applied Mathematics, ICIAM (**2023**), Tokyo, Japan
