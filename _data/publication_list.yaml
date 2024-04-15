@@ -32,7 +32,7 @@
     url: https://arxiv.org/abs/2306.17648
     display: arXiv:2306.17648 (2023)
   link_main:
-    url: https://epubs.siam.org/eprint/NRHMHGY9NXZUNFCTFSQX/full
+    url: https://epubs.siam.org/doi/full/10.1137/23M1583375
     display: SIAM Journal on Scientific Computing (SISC)
   bibtex: |
         @article{kopanicakova_pinnspqn_2023,
