@@ -4,13 +4,14 @@
   label: kothari_2024a
   image: 
   description: Due to its optimal complexity, the multigrid (MG) method is one of the most popular approaches for solving large-scale linear systems arising from the discretization of partial differential equations. However, the parallel implementation of standard MG methods, which are inherently multiplicative, suffers from increasing communication complexity. In such cases, the additive variants of MG methods provide a good alternative due to their inherently parallel nature, although they exhibit slower convergence. This work combines the additive multigrid method with the multipreconditioned conjugate gradient (MPCG) method. In the proposed approach, the MPCG method employs the corrections from the different levels of the MG hierarchy as separate preconditioned search directions. In this approach, the MPCG method updates the current iterate by using the linear combination of the preconditioned search directions, where the optimal coefficients for the linear combination are computed by exploiting the energy norm minimization of the CG method. The idea behind our approach is to combine the $A$-conjugacy of the search directions of the MPCG method and the quasi $H_1$-orthogonality of the corrections from the MG hierarchy. In the numerical section, we study the performance of the proposed method compared to the standard additive and multiplicative MG methods used as preconditioners for the CG method.
+  authors: H. Kothari, M. G. C. Nestola, M. Favino, R. Krause
   link_pre:
     url: https://arxiv.org/abs/2402.12833
     display: arXiv:2402.12833 (2024)
   link_main:
     url: 
     display: 
-    bibtex: |
+  bibtex: |
         @unpublished{kothari_2024a
         title={Integrating Multi-Preconditioned Conjugate Gradient with Additive Multigrid Strategy}, 
         author={Hardik Kothari and Maria Giuseppina Chiara Nestola and Marco Favino and Rolf Krause},
@@ -26,6 +27,7 @@
   label: kopanicakova_2023
   image: 
   description: We propose to enhance the training of physics-informed neural networks. To this aim, we introduce nonlinear additive and multiplicative preconditioning strategies for the widely used L-BFGS optimizer. The nonlinear preconditioners are constructed by utilizing the Schwarz domain decomposition framework, where the parameters of the network are decomposed in a layerwise manner. Through a series of numerical experiments, we demonstrate that both additive and multiplicative preconditioners significantly improve the convergence of the standard L-BFGS optimizer while providing more accurate solutions of the underlying PDEs. Moreover, the additive preconditioner is inherently parallel, thus giving rise to a novel approach to model parallelism.
+  authors: A. Kopaničáková, H. Kothari, G. Em Karniadakis, R. Krause
   link_pre:
     url: https://arxiv.org/abs/2306.17648
     display: arXiv:2306.17648 (2023)
