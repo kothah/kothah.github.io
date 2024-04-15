@@ -1,23 +1,49 @@
+- title: "Integrating Multi-Preconditioned Conjugate Gradient with Additive Multigrid Strategy"
+  year: 2024
+  type: preprint
+  label: kothari_2024a
+  image: 
+  description: Due to its optimal complexity, the multigrid (MG) method is one of the most popular approaches for solving large-scale linear systems arising from the discretization of partial differential equations. However, the parallel implementation of standard MG methods, which are inherently multiplicative, suffers from increasing communication complexity. In such cases, the additive variants of MG methods provide a good alternative due to their inherently parallel nature, although they exhibit slower convergence. This work combines the additive multigrid method with the multipreconditioned conjugate gradient (MPCG) method. In the proposed approach, the MPCG method employs the corrections from the different levels of the MG hierarchy as separate preconditioned search directions. In this approach, the MPCG method updates the current iterate by using the linear combination of the preconditioned search directions, where the optimal coefficients for the linear combination are computed by exploiting the energy norm minimization of the CG method. The idea behind our approach is to combine the $A$-conjugacy of the search directions of the MPCG method and the quasi $H_1$-orthogonality of the corrections from the MG hierarchy. In the numerical section, we study the performance of the proposed method compared to the standard additive and multiplicative MG methods used as preconditioners for the CG method.
+  link_pre:
+    url: https://arxiv.org/abs/2402.12833
+    display: arXiv:2402.12833 (2024)
+  link_main:
+    url: 
+    display: 
+    bibtex: |
+        @unpublished{kothari_2024a
+        title={Integrating Multi-Preconditioned Conjugate Gradient with Additive Multigrid Strategy}, 
+        author={Hardik Kothari and Maria Giuseppina Chiara Nestola and Marco Favino and Rolf Krause},
+        year={2024},
+        eprint={2402.12833},
+        archivePrefix={arXiv},
+        }
+
+
 - title: "Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies"
   year: 2023
-  type: preprint
+  type: journal
   label: kopanicakova_2023
   image: 
-  description: We propose to enhance the training of physics-informed neural networks (PINNs). To this aim, we introduce nonlinear additive and multiplicative preconditioning strategies for the widely used L-BFGS optimizer. The nonlinear preconditioners are constructed by utilizing the Schwarz domain-decomposition framework, where the parameters of the network are decomposed in a layer-wise manner. Through a series of numerical experiments, we demonstrate that both, additive and multiplicative preconditioners significantly improve the convergence of the standard L-BFGS optimizer, while providing more accurate solutions of the underlying partial differential equations. Moreover, the additive preconditioner is inherently parallel, thus giving rise to a novel approach to model parallelism.
-  authors: A. Kopaničáková, H. Kothari, G. Em Karniadakis, R. Krause
+  description: We propose to enhance the training of physics-informed neural networks. To this aim, we introduce nonlinear additive and multiplicative preconditioning strategies for the widely used L-BFGS optimizer. The nonlinear preconditioners are constructed by utilizing the Schwarz domain decomposition framework, where the parameters of the network are decomposed in a layerwise manner. Through a series of numerical experiments, we demonstrate that both additive and multiplicative preconditioners significantly improve the convergence of the standard L-BFGS optimizer while providing more accurate solutions of the underlying PDEs. Moreover, the additive preconditioner is inherently parallel, thus giving rise to a novel approach to model parallelism.
   link_pre:
     url: https://arxiv.org/abs/2306.17648
     display: arXiv:2306.17648 (2023)
   link_main:
-    url: 
-    display: Under review in SIAM Journal on Scientific Computing (SISC)
+    url: https://epubs.siam.org/eprint/NRHMHGY9NXZUNFCTFSQX/full
+    display: SIAM Journal on Scientific Computing (SISC)
   bibtex: |
-        @unpublished{kopanicakova_pinnspqn_2023,
-          title={Enhancing training of physics-informed neural networks using domain-decomposition based preconditioning strategies},
-          author={Kopaničáková A. and Kothari H. and Karniadakis G. Em and Krause R.},
-          year={2023},
-          archivePrefix="arXiv",
-          eprint={2306.17648},
+        @article{kopanicakova_pinnspqn_2023,
+         author = {Kopani\v{c}\'{a}kov\'{a}, Alena and Kothari, Hardik and Karniadakis, George E. and Krause, Rolf},
+         title = {Enhancing Training of Physics-Informed Neural Networks Using Domain Decomposition–Based Preconditioning Strategies},
+         journal = {SIAM Journal on Scientific Computing},
+         volume = {0},
+         number = {0},
+         pages = {S46-S67},
+         year = {2024},
+         doi = {10.1137/23M1583375},
+         URL = {https://doi.org/10.1137/23M1583375},
+         eprint = {https://doi.org/10.1137/23M1583375},
         }
         
 - title: "Nonlinear Schwarz preconditioning for Quasi-Newton methods"
