@@ -4,6 +4,10 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
+## Lecturer
+**[Scientific Learning](https://search.usi.ch/en/courses/35268363/scientific-learning)** (Spring 2024)\
+Role: Course director with Dr. M. Favino
+
 ## Substitute Lecturer
 **Optimization Methods** (Spring 2022)\
 Role: Replacing Prof. Rolf Krause for 6 lectures
