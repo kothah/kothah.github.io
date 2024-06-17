@@ -16,7 +16,10 @@ author_profile: true
 1. Combining the domain decomposition and the multilevel methods with machine learning approaches <br> International Multigrid Conference **2022**.<br> Co-organized with A. Kopaničáková (Brown University, USA)
 
 # Selected Talks at conferences and workshops
-1. __H. Kothari__, A. Kopaničáková, G. Em Karniadakis, R. Krause, <br> *Nonlinear preconditioning for training of physics-informed neural networks*, <br> Central-European Conference on Scientific Computing (ALGORITMY **2024**). <br>, High Tatra Mountains, Slovakia.
+1. __H. Kothari__, A. Kopaničáková, R. Krause, <br> *Exploring nonlinear preconditioning strategies for solving phase-field fracture problems*, <br> International Conference On Preconditioning Techniques
+For Scientific and Industrial Applications (Preconditioning **2024**). <br> Atlanta, USA.
+1. __H. Kothari__, S. Zampini, A. Kopanicakova, D. E. Keyes, R. Krause, <br> *Exploring Nonlinear Preconditioning for Quasi-Newton Methods*, <br>  ECCOMAS Congress (**2024**). <br> Lisbon, Portugal.
+1. __H. Kothari__, A. Kopaničáková, G. Em Karniadakis, R. Krause, <br> *Nonlinear preconditioning for training of physics-informed neural networks*, <br> Central-European Conference on Scientific Computing (ALGORITMY **2024**). <br> High Tatra Mountains, Slovakia.
 1. __H. Kothari__, A. Kopaničáková, R. Krause, <br> *Nonlinear Schwarz preconditioning for solving bound constrained optimization problems*, <br> $28^{th}$ International Domain Decomposition Conference, DD XXVIII (**2024**), King Abdullah University of Science and Technology, Saudi Arabia.
 1. __H. Kothari__, M.C.G. Nestola, M. Favino, R. Krause, <br> *On multipreconditioning Conjugate Gradient method with the additive multigrid for solving highly anisotropic problems*, <br> European Conference on Numerical Mathematics and Advanced Applications, ENUMATH (**2023**), Lisbon, Portugal
 1. __H. Kothari__, A. Kopaničáková, R. Krause <br> *A nonlinear preconditioning strategy for solving phase-field fracture problems in a constrained minimization framework*, <br> $10^{th}$ International Congress on Industrial and Applied Mathematics, ICIAM (**2023**), Tokyo, Japan
